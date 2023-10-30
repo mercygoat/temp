@@ -1,7 +1,7 @@
 # The Deep forest
 ### Video Demo:  <https://youtu.be/ikiKlZjWb9Y?si=GyVeMC4Z1ybsIdcC>
 ### Overview:
-This is **"The Deep Forest"**, a project created by me, Tim B       ([**mercygoat**](https://github.com/mercygoat)) with help from my sister Yasmin B ([**@yaskadraws**](https://www.instagram.com/yaskadraws/)) 
+This is **"The Deep Forest"**, a project created by me, Tim B       ([**psychonut348**](https://github.com/psychonut348)) with help from my sister Yasmin B ([**@yaskadraws**](https://www.instagram.com/yaskadraws/)) 
 ### How to run:
 The folder includes a file called "thedeepforest.zip" where you can find "game.exe".
 ### The game:
